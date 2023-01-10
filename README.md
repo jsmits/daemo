@@ -68,6 +68,8 @@ Now, you can install the dependencies, which are managed by a utility called Bow
     bash> npm install
     bash> bower install
 
+N.B.: `static/js/ngFx.min.js` is copied from [here](https://raw.githubusercontent.com/jimobrien/ngFx/master/dist/ngFx.min.js), because the original repo is not available anymore. 
+
 To edit CSS using SASS, install SASS. Assuming you have Rails installed, which it is on every Mac:
 
     bash> sudo gem install sass
